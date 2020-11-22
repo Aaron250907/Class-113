@@ -1,0 +1,12 @@
+body {
+    background-color: #BFACC8;
+}
+
+canvas {
+    border-style: ridge;
+    border-width: 20px;
+}
+
+circle{
+    background-color: antiquewhite;
+}
